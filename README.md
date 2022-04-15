@@ -1,7 +1,7 @@
 # LWC Combobox Autocomplete
 Simple LWC component for building a autocomplete combobox.
 
-<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/benedwards44/lwc-combobox-autocomplete">
+<a href="https://github.com/swaroopadev/testingSwaroopa.git">
     <img 
         alt="Deploy to Salesforce"
         src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png"
